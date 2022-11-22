@@ -1,0 +1,17 @@
+body {
+ margin: auto;
+}
+img {
+    min-width: 10%;
+    max-width: 100%; 
+    display: block;
+}
+
+a {
+    font-size: 500%;
+}
+
+/* a :hover {
+    color: brown;
+    size: 50%;
+} */
